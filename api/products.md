@@ -1,5 +1,5 @@
 omega gateway
-apha router
+alpha router
 omega gateway
 delta switch
 alpha router
